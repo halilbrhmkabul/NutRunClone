@@ -1,0 +1,252 @@
+fileFormatVersion: 2
+guid: f47e4b31b2cc8ef4c8dc48567ae1389c
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chocolate
+    second: {fileID: 2100000, guid: 96294e911efe5934885cd44137343ef0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chocolate_Door_Body
+    second: {fileID: 2100000, guid: 5722cddaae932584d80d9014e8388147, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chocolate_Door_Corner
+    second: {fileID: 2100000, guid: 8533c7fd6a8e9874fa599545e7ddb059, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fire_Machine_Body
+    second: {fileID: 2100000, guid: 2a7dfbb9b96141242b1d37cef3baf40c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fire_Machine_Body_2
+    second: {fileID: 2100000, guid: 3b2eb1dc1901abe47bdbf499bdbdbf00, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gelatine
+    second: {fileID: 2100000, guid: 82575f858dcb5d940bc2d0dc6d0431eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gelatine_Line
+    second: {fileID: 2100000, guid: 5eff93a974505d84a986786a838b7b59, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ground
+    second: {fileID: 2100000, guid: 20c84cb7bf3a0c949ab25603cd93e4aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Heart_Box_Gold
+    second: {fileID: 2100000, guid: e4bfe8d5482912a4590aab0bd079ecfa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Nail_Varnish
+    second: {fileID: 2100000, guid: ed5fab4614c94dd4db19980796c64447, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Nut_breaker_Body
+    second: {fileID: 2100000, guid: de80594a4857da54abd466d8ca209bd0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Nut_breaker_corner
+    second: {fileID: 2100000, guid: 8d8aae4254611e64ab5bb9dd21874329, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Nut_cell
+    second: {fileID: 2100000, guid: f8529b5b9e9f3bd48b1451c80f19bc84, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Nut_cell_machine_Body
+    second: {fileID: 2100000, guid: 63bcd48362a264a4292131ab0c8d4208, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Nut_cell_machine_Corner
+    second: {fileID: 2100000, guid: 8be1bebf5c0908949b8e9ca8da59680e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PUNCH_TEXT
+    second: {fileID: 2100000, guid: ea789ef51dca5e44599eafc97de2b273, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Packaged_Nut_Texture
+    second: {fileID: 2100000, guid: e37809477ef323f4b91cd0e3f2a68d29, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Packer_Body
+    second: {fileID: 2100000, guid: 630ff74baed25914eb6d87457399e751, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Packer_Body_End
+    second: {fileID: 2100000, guid: 47c72181d9116f44b80a47ca191c76e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Player_Hand
+    second: {fileID: 2100000, guid: ae4ac33b737b61c44ba4c143d64443f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Punch_Body_2
+    second: {fileID: 2100000, guid: 0674132a857359c45a95e55c73616461, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chocolate
+    second: {fileID: 2100000, guid: 0d046fcf6478deb4f9a4a3e80eaf6a87, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hazelnut
+    second: {fileID: 2100000, guid: 25e7876e2a4a36a448876772b51f579d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hazelnuts
+    second: {fileID: 2100000, guid: 1fc22e4fa8655664b81929718dda7c9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: heart_box
+    second: {fileID: 2100000, guid: ddc7e1c7598317c46b021a4e45f0d826, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: iron
+    second: {fileID: 2100000, guid: bb2031bd5f3b66a4ba25cc266bd9d8ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: packer_Corner
+    second: {fileID: 2100000, guid: 5e9a3b03df3435f49bead53f02be4b87, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: punch_Body
+    second: {fileID: 2100000, guid: 830429ae4a3bd34489d9c67b93199627, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: hazelnut
+    second: {fileID: 2800000, guid: 390d9145f498345738a089499cf74051, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: paper_ceresad
+    second: {fileID: 2800000, guid: fafcaa65a0c564663938c4f5812080d5, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

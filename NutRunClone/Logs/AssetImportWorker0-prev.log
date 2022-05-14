@@ -1,0 +1,259 @@
+Unity Editor version:    2020.3.30f1 (1fb1bf06830e)
+Branch:                  2020.3/staging
+Build type:              Release
+Batch mode:              YES
+macOS version:           Version 12.3.1 (Build 21E258)
+Darwin version:          21.4.0
+Architecture:            x86_64
+Running under Rosetta:   YES
+Available memory:        16384 MB
+Using pre-set license
+Pro License: NO
+
+COMMAND LINE ARGUMENTS:
+/Applications/Unity/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/gameograph1/Desktop/projects/NutRunClone
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+54567
+Successfully changed project path to: /Users/gameograph1/Desktop/projects/NutRunClone
+/Users/gameograph1/Desktop/projects/NutRunClone
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 37.95 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.30f1 (1fb1bf06830e)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/gameograph1/Desktop/projects/NutRunClone/Assets
+GfxDevice: creating device client; threaded=0
+2022-04-25 13:13:27.595 Unity[4954:90577] (null) preferred device: Apple M1 (high power)
+2022-04-25 13:13:27.595 Unity[4954:90577] Metal devices available: 1
+2022-04-25 13:13:27.595 Unity[4954:90577] 0: Apple M1 (high power)
+2022-04-25 13:13:27.596 Unity[4954:90577] Using device Apple M1 (high power)
+Initializing Metal device caps: Apple M1
+Shader 'BOXOPHOBIC/Polyverse Skies/Simple': fallback shader 'False' not found
+Shader 'BOXOPHOBIC/Polyverse Skies/Standard': fallback shader 'False' not found
+Initialize mono
+Mono path[0] = '/Applications/Unity/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56954
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.000270 seconds.
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 46.39 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.428 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1428ms)
+		BeginReloadAssembly (91ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (2ms)
+		EndReloadAssembly (1214ms)
+			LoadAssemblies (89ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (173ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (48ms)
+			SetupLoadedEditorAssemblies (626ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (14ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (46ms)
+				BeforeProcessingInitializeOnLoad (37ms)
+				ProcessInitializeOnLoadAttributes (410ms)
+				ProcessInitializeOnLoadMethodAttributes (117ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001207 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.39 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.516 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2517ms)
+		BeginReloadAssembly (278ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (33ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (35ms)
+		EndReloadAssembly (2137ms)
+			LoadAssemblies (241ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (329ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (68ms)
+			SetupLoadedEditorAssemblies (1225ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (16ms)
+				SetLoadedEditorAssemblies (2ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (228ms)
+				ProcessInitializeOnLoadAttributes (946ms)
+				ProcessInitializeOnLoadMethodAttributes (32ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (32ms)
+Platform modules already initialized, skipping
+Validating Project structure ... 0.007822 seconds.
+Shader import version has changed; will reimport all shaders...
+Upgrading shader files ...0.028540 seconds.
+Application.AssetDatabase Initial Script Refresh Start
+RefreshInfo: InitialScriptRefreshV2(NoUpdateAssetOptions) scanfilter:  ... 1 filters
+RefreshProfiler: Total: 0.000ms
+Application.AssetDatabase Initial Script Refresh End
+Application.AssetDatabase.Refresh Start
+Application.AssetDatabase.Refresh End
+RefreshInfo: StopAssetImportingV2(ForceSynchronousImport) scanfilter: 
+RefreshProfiler: Total: 0.000ms
+Shader 'BOXOPHOBIC/Polyverse Skies/Standard': fallback shader 'False' not found
+Shader 'BOXOPHOBIC/Polyverse Skies/Simple': fallback shader 'False' not found
+Launching external process: /Applications/Unity/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.02 seconds
+Initializing Unity extensions:
+2022-04-25 13:13:34.273 Unity[4954:90577] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x60000147c8c0 Font Asset, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+2022-04-25 13:13:34.278 Unity[4954:90577] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x600001413800 Font Asset, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+========================================================================
+Worker process is ready to serve import requests
+Shader 'BOXOPHOBIC/Polyverse Skies/Standard': fallback shader 'False' not found
+Shader 'BOXOPHOBIC/Polyverse Skies/Simple': fallback shader 'False' not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2045 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 231.5 MB.
+System memory in use after: 231.3 MB.
+
+Unloading 243 unused Assets to reduce memory usage. Loaded Objects now: 2548.
+Total: 2.331333 ms (FindLiveObjects: 0.095917 ms CreateObjectMapping: 0.044750 ms MarkObjects: 1.967000 ms  DeleteObjects: 0.222875 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/__Levels/Level0.prefab
+  artifactKey: Guid(55d263044a1d54c80a266e9a5510ea7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/__Levels/Level0.prefab using Guid(55d263044a1d54c80a266e9a5510ea7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c455988a5011d5971c55b5894c11bcd') in 0.511366 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 51.812453 seconds.
+  path: Assets/polyquest_v1_fog/materials/lambert1.mat
+  artifactKey: Guid(46b308e6e04aaa648a7140abebb4559c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyquest_v1_fog/materials/lambert1.mat using Guid(46b308e6e04aaa648a7140abebb4559c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a95a8ee6441213c246ddbef78003fb5d') in 0.117402 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/polyquest_v1_fog/materials/m_rock_gray.mat
+  artifactKey: Guid(9416b49b954cfde40914e794994121de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyquest_v1_fog/materials/m_rock_gray.mat using Guid(9416b49b954cfde40914e794994121de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd8a8c560447b8956ec0fff1a64fb869') in 0.010438 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 70.550049 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Electronic Highway Sign SDF.asset
+  artifactKey: Guid(dc36b3fdc14f47ebb36fd484a67e268a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Electronic Highway Sign SDF.asset using Guid(dc36b3fdc14f47ebb36fd484a67e268a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32ee7fe4ffc9c8b0a2a1764a3e1118b0') in 0.136356 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/polyquest_v1_fog/materials/fog_desert_storm_05.mat
+  artifactKey: Guid(e178dd6f16941fc4db83ba8c4cc19c95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyquest_v1_fog/materials/fog_desert_storm_05.mat using Guid(e178dd6f16941fc4db83ba8c4cc19c95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae9b9eb7af5714d831041fb346e3d00d') in 0.009222 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/polyquest_v1_fog/materials/fog_pit_03.mat
+  artifactKey: Guid(bd5d6be1676fa0f4c9b927659be55ae0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyquest_v1_fog/materials/fog_pit_03.mat using Guid(bd5d6be1676fa0f4c9b927659be55ae0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3bc8e8123be58c9800232810e7852a7a') in 0.008840 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000150 seconds.
+  path: Assets/polyquest_v1_fog/materials/fog_pit_06.mat
+  artifactKey: Guid(3af5fd0b4960a7d4eb6fa9f6fc93ca9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyquest_v1_fog/materials/fog_pit_06.mat using Guid(3af5fd0b4960a7d4eb6fa9f6fc93ca9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14a1257f12c863d8abe8e7285f7e6692') in 0.240311 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000182 seconds.
+  path: Assets/polyquest_v1_fog/materials/fog_pit_05.mat
+  artifactKey: Guid(98fa1873b4c6aed4389bae299b0686fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyquest_v1_fog/materials/fog_pit_05.mat using Guid(98fa1873b4c6aed4389bae299b0686fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '863160b619392dac9d66bbb3a4f8ae96') in 0.007134 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/polyquest_v1_fog/fog_desert_storm.mat
+  artifactKey: Guid(ae92982ff2a450543b1bed09b142b8d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyquest_v1_fog/fog_desert_storm.mat using Guid(ae92982ff2a450543b1bed09b142b8d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f26a172b85eecb4de3e05ceff5e3110') in 0.008805 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/polyquest_v1_fog/materials/fog_desert_storm_02.mat
+  artifactKey: Guid(dabf127d1b9a3354885de38d6c058620) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyquest_v1_fog/materials/fog_desert_storm_02.mat using Guid(dabf127d1b9a3354885de38d6c058620) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae01997d20b4743658599228c506ed1a') in 0.045242 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000139 seconds.
+  path: Assets/polyquest_v1_fog/materials/fog_pit_09.mat
+  artifactKey: Guid(71111c676fa26ca4c93b7c1b6ee20b0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyquest_v1_fog/materials/fog_pit_09.mat using Guid(71111c676fa26ca4c93b7c1b6ee20b0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da0b9f3f566ebe772953a7a2d04962e9') in 0.006948 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/polyquest_v1_fog/materials/fog_pit_04.mat
+  artifactKey: Guid(3f999cb943252924887c3623e8b7fa0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyquest_v1_fog/materials/fog_pit_04.mat using Guid(3f999cb943252924887c3623e8b7fa0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2de91bb53be7b6ae400107a852fc92d') in 0.006823 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/polyquest_v1_fog/materials/fog_desert_storm_03.mat
+  artifactKey: Guid(2bbdb10dd2d318244840ec84dad01f0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyquest_v1_fog/materials/fog_desert_storm_03.mat using Guid(2bbdb10dd2d318244840ec84dad01f0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ba57e67eea0492ed2d689841dfdafa3') in 0.010359 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/polyquest_v1_fog/materials/fog_ice.mat
+  artifactKey: Guid(af0b90e5c263f184ca2bce0f5ed6a86f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyquest_v1_fog/materials/fog_ice.mat using Guid(af0b90e5c263f184ca2bce0f5ed6a86f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8b70a43d6ef0f3528e88e80a18c5fbb') in 0.006898 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/polyquest_v1_fog/materials/fog_pit_07.mat
+  artifactKey: Guid(a89bb81637861dd4ea5b15a13207a018) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyquest_v1_fog/materials/fog_pit_07.mat using Guid(a89bb81637861dd4ea5b15a13207a018) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e63e0bf81b7d666ab5cc8806f7ee632b') in 0.007239 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/polyquest_v1_fog/materials/fog_desert_storm_04.mat
+  artifactKey: Guid(ed9536b03f5c618448b56f7ac6c264ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyquest_v1_fog/materials/fog_desert_storm_04.mat using Guid(ed9536b03f5c618448b56f7ac6c264ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a12068c775d3f973498ff93a1e51627a') in 0.007324 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/polyquest_v1_fog/materials/fog_pit_08.mat
+  artifactKey: Guid(79b2e996836ae2d4a9f016e56d60cf7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/polyquest_v1_fog/materials/fog_pit_08.mat using Guid(79b2e996836ae2d4a9f016e56d60cf7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dbcf410255f196f7917d4d4eb329ef0c') in 0.006872 seconds 
